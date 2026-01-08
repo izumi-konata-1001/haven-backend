@@ -1,0 +1,27 @@
+{
+  "name": "haven-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izumi-konata-1001/haven-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/izumi-konata-1001/haven-backend/issues"
+  },
+  "homepage": "https://github.com/izumi-konata-1001/haven-backend#readme",
+  "dependencies": {
+    "bad-words": "^4.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
